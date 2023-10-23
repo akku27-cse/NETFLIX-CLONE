@@ -20,7 +20,7 @@ git clone https://github.com/akku27-cse/NETFLIX-CLONE.git
 2. Get in the React folder
 
 ```shell
-cd netflixclone
+~cd netflixclone
 ```
 
 3. Install dependencies via npm or yarn
