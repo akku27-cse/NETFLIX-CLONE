@@ -34,7 +34,14 @@ npm i
 ```shell
 npm start
 ```
-
+5.git command
+```shell
+1.git status
+2.git add .
+3.git commit
+4.git push
+5.git pull
+```
 
 
 
