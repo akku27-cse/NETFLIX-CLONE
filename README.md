@@ -1,6 +1,6 @@
 # NETFLIX-CLONE Use React
 
-<button><a href="https://netflix-400ce.web.app/" style="color:blue;text-align:center;">View Live App</a></button>
+<button><a href="https://netflix-400ce.web.app/" style="color🔴;text-align:center;">View Live App</a></button>
 <br>
 #view1:
 ![image](https://github.com/akku27-cse/NETFLIX-CLONE/assets/115920400/83fd6d34-f89c-4e5d-8479-2798115eab17)
